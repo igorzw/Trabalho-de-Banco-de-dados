@@ -1,2 +1,2 @@
 # Trabalho-de-Banco-de-dados
-Este trabalho consiste na criação de um banco de dados relacional para uma loja de roupas, com o objetivo de organizar e gerenciar as informações dos produtos disponíveis no estoque. Foi desenvolvida uma tabela chamada Roupas, que armazena dados como nome do produto, categoria, tamanho, cor, preço, marca e gênero.
+Este trabalho consiste na criação de um banco de dados relacional a um sistema de registro e login, ele com criptografia garante que os dados dos usuários, como senhas, sejam armazenados de forma segura no banco de dados. Ao se registrar, a senha é criptografada antes de ser salva. No login, a senha digitada é comparada com a versão criptografada no banco. Isso aumenta a segurança e protege contra acessos não autorizados.
